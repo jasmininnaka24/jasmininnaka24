@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **VueJS, Framer Motion, Flutter and Firebase, and UX/UI Design rules, theories, and principles.**
 
-- 📫 How to reach me **jasmininnaka@gmail.com**
+- 📫 You can reach me at **jasmininnaka@gmail.com**
 
 - ⚡ Fun fact **I like cats, and coffee.**
 
