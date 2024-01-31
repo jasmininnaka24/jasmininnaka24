@@ -9,7 +9,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/007/163/261/original/cute-girl-with-cat-drink-hot-coffee-tea-cacao-cozy-winter-hygga-home-style-illustration-in-cartoon-style-vector.jpg">
+<img align="right" alt="Coding" width="200" src="https://static.vecteezy.com/system/resources/previews/007/163/261/original/cute-girl-with-cat-drink-hot-coffee-tea-cacao-cozy-winter-hygga-home-style-illustration-in-cartoon-style-vector.jpg">
 
 - 🔭 I’m currently working on **my portfolio**
 
