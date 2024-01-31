@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently an **intern and a 4th year college student**
+- 🌱 I’m an **intern and a 4th year college student**
 
 - 📫 You can reach me at **jasmininnaka@gmail.com**
 
