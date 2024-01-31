@@ -3,7 +3,7 @@
 
 <div></div>
 <h1 align="left">Hi 👋, I'm Jasmin In-naka</h1>
-<h3 align="left">I'm a Full-Stack developer based in the Philippines</h3>
+<h3 align="left">I'm a Full-Stack Developer based in the Philippines</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
