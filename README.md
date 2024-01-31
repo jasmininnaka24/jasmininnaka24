@@ -1,11 +1,9 @@
 
-<div align="center">
- <img align="center" alt="Coding" src="https://raw.githubusercontent.com/jasmininnaka24/banner-image/main/banner-jas.png">
-</div
+
 
 <div></div>
 <h1 align="left">Hi 👋, I'm Jasmin In-naka</h1>
-<h3 align="left">A full stack developer based in the Philippines</h3>
+<h3 align="left">I'm a Full-Stack developer based in the Philippines</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
