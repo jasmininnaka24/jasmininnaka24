@@ -14,7 +14,7 @@
 
 - 📫 You can reach me at **jasmininnaka@gmail.com**
 
-- ⚡ Fun fact **I like cats, and coffee.**
+- ⚡ Fun fact: **I like cats, and coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
