@@ -5,7 +5,7 @@
 
 <div></div>
 <h1 align="center">Hi 👋, I'm Jasmin In-naka</h1>
-<h3 align="center">A full stack developer based in the Philippines</h3>
+<h3 align="center">A Full-Stack Developer based in the Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/007/163/261/original/cute-girl-with-cat-drink-hot-coffee-tea-cacao-cozy-winter-hygga-home-style-illustration-in-cartoon-style-vector.jpg">
 
 - 🔭 I’m currently working on **my portfolio**
