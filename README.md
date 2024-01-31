@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **VueJS, Framer Motion, Flutter and Firebase, and UX/UI Design Rules as well as their principles and theories.**
+- 🌱 I’m currently learning **VueJS, Framer Motion, Flutter and Firebase, and UX/UI Design Rules as well as their theories and principles .**
 
 - 📫 How to reach me **jasmininnaka@gmail.com**
 
