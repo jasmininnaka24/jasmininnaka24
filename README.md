@@ -1,23 +1,20 @@
 
 <div align="center">
- <img align="center" alt="Coding" src="https://github.com/jasmininnaka24/banner-image/raw/main/banner.png">
+ <img align="center" alt="Coding" src="https://raw.githubusercontent.com/jasmininnaka24/banner-image/main/banner-jas.png">
 </div
 
 <div></div>
 <h1 align="center">Hi 👋, I'm Jasmin In-naka</h1>
-<h3 align="center">A Full-Stack Developer based in the Philippines</h3>
-
-<br>
-
-<img align="right" alt="Coding" width="380" src="https://static.vecteezy.com/system/resources/previews/007/163/261/original/cute-girl-with-cat-drink-hot-coffee-tea-cacao-cozy-winter-hygga-home-style-illustration-in-cartoon-style-vector.jpg">
+<h3 align="center">A full stack developer based in the Philippines</h3>
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/007/163/261/original/cute-girl-with-cat-drink-hot-coffee-tea-cacao-cozy-winter-hygga-home-style-illustration-in-cartoon-style-vector.jpg">
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **VueJS, Framer Motion, Flutter and Firebase, and UX/UI Design Rules as well as their theories and principles .**
+- 🌱 I’m currently learning **VueJS, Framer Motion, Flutter and Firebase, and UX/UI Design Rules as well as their principles and theories.**
 
-- 📫 You can reach me at **jasmininnaka@gmail.com**
+- 📫 How to reach me **jasmininnaka@gmail.com**
 
-- ⚡ Fun fact: **I like cats, and coffee.**
+- ⚡ Fun fact **I like cats, and coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
