@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **VueJS, Framer Motion, Flutter and Firebase, and UX/UI Design rules, theories, and principles.**
+- 🌱 I’m currently an **intern and 4th year college student**
 
 - 📫 You can reach me at **jasmininnaka@gmail.com**
 
