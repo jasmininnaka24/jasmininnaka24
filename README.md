@@ -21,7 +21,7 @@
 
 
 <br>
-<h3 align="left">Top Languages and Stats</h3>
+<h3 align="left">Top Languages and Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmininnaka24&show_icons=true&locale=en&layout=compact" alt="jasmininnaka24" /></p>
 
