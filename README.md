@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Jasmin In-naka</h1>
 <h3 align="left">I'm a Full-Stack Developer based in the Philippines</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **internship application project**
 
 - 🌱 I’m an **intern and a 4th year college student**
 
