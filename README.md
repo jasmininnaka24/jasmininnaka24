@@ -66,9 +66,13 @@ I have been making applications for 3 years. I started with learning HTML out of
   
 ### Badges
   <b>My GitHub Stats</b>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+  <b>My GitHub Stats</b>
   <a href="http://www.github.com/jasmininnaka24">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasmininnaka24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=444e59&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="jasmininnaka24's GitHub stats" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=jasmininnaka24&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=444e59&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="jasmininnaka24's GitHub stats" />
+  </a>
   <a href="http://www.github.com/jasmininnaka24">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmininnaka24&stroke=444e59&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=444e59&currStreakLabel=0891b2&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a><a href="https://github.com/jasmininnaka24" align="left">          
-</a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmininnaka24&stroke=444e59&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=444e59&currStreakLabel=0891b2&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" />
+  </a>
+</div>
 </div>
