@@ -1,7 +1,7 @@
 Hi 👋 My name is Jasmin In-naka
 ===============================
 
-Software Developer
+Custom Software Engineering Associate
 ------------------
 
 I have been making applications for 3 years. I started with learning HTML out of curiosity, I noticed that using HTML alone is kind of boring to see; so, I started learning CSS. As I progress to making simple applications, I wanted to add some functionalities with them, that's why I started exploring JavaScript and been improving my logical skills, how to solve problems effectively, as well as handle bugs and errors. After that, my interest in backend begins. I learned most of the backend development concepts using PHP. When I get familiar with full stack development, I wanted to challenge myself to learn quickly by learning another tech stack so I can catch up if I were to make different applications. And everything starts to get even more interesting to me, afterwards.
