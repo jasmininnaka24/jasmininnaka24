@@ -6,7 +6,7 @@ Associate Software Engineer
 
 I am an Associate Software Engineer, I have been developing applications for the past 4 years, recently extending my expertise to include DevOps practices, which I now specialize in at the workplace. In software development, my focus lies in the MERN stack, where I enjoy building robust and dynamic applications.
 
-// In the DevOps, I excel in tools and technologies such as Kubernetes, Docker, AWS, Terraform, Jenkins, and Python for scripting. I prefer specializing in these tools rather than being a "jack of all trades," as they provide me with a reliable and efficient workflow. However, I remain open to learning new technologies when needed, demonstrating my commitment to continuous growth and adaptability.
+<!-- In the DevOps, I excel in tools and technologies such as Kubernetes, Docker, AWS, Terraform, Jenkins, and Python for scripting. I prefer specializing in these tools rather than being a "jack of all trades," as they provide me with a reliable and efficient workflow. However, I remain open to learning new technologies when needed, demonstrating my commitment to continuous growth and adaptability. -->
 
 *   🌍  I'm based in Philippines
 *   🖥️  See my portfolio at [jasmininnaka.vercel.app/](http://jasmininnaka.vercel.app/)
