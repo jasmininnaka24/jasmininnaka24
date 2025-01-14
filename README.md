@@ -1,10 +1,12 @@
 Hi 👋 My name is Jasmin In-naka
 ===============================
 
-Custom Software Engineering Associate
+Associate Software Engineer
 ------------------
 
-I have been making applications for 3 years. I started with learning HTML out of curiosity, I noticed that using HTML alone is kind of boring to see; so, I started learning CSS. As I progress to making simple applications, I wanted to add some functionalities with them, that's why I started exploring JavaScript and been improving my logical skills, how to solve problems effectively, as well as handle bugs and errors. After that, my interest in backend begins. I learned most of the backend development concepts using PHP. When I get familiar with full stack development, I wanted to challenge myself to learn quickly by learning another tech stack so I can catch up if I were to make different applications. And everything starts to get even more interesting to me, afterwards.
+I am an Associate Software Engineer, I have been developing applications for the past 4 years, recently extending my expertise to include DevOps practices, which I now specialize in at the workplace. In software development, my focus lies in the MERN stack, where I enjoy building robust and dynamic applications.
+
+// In the DevOps, I excel in tools and technologies such as Kubernetes, Docker, AWS, Terraform, Jenkins, and Python for scripting. I prefer specializing in these tools rather than being a "jack of all trades," as they provide me with a reliable and efficient workflow. However, I remain open to learning new technologies when needed, demonstrating my commitment to continuous growth and adaptability.
 
 *   🌍  I'm based in Philippines
 *   🖥️  See my portfolio at [jasmininnaka.vercel.app/](http://jasmininnaka.vercel.app/)
