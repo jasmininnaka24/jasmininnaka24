@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jasmin In-naka
 
-### A data engineer based in the Philippines, working fully remote with a US-based company.
+### A data engineer working fully remote with a US-based company.
 
 - 🌱 I'm currently learning **in-depth data engineering**
 
