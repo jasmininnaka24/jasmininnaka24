@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at **[https://jasmininnaka.vercel.app](https://jasmininnaka.vercel.app)**
 
-- 📄 Know about my experiences **[https://jasmin-portfolio-assets.s3.ap-southeast-2.amazonaws.com/files/file_1769691022612_jasmin_in-naka_resume.pdf](https://jasmin-portfolio-assets.s3.ap-southeast-2.amazonaws.com/files/file_1769691022612_jasmin_in-naka_resume.pdf)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/https://github.com/jasmininnaka24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/jasmininnaka24" height="30" width="40" /></a>
