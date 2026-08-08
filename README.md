@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jasmin In-naka
 
-### A data engineer working fully remote in a US-based company.
+### A programmer analyst.
 
 - 🌱 I'm currently learning **in-depth data engineering**
 
